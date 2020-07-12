@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 SOMEONE TOLD ME THAT I CAN HAVE A TRY ABOUT THE FUNCTION OF CREATING THE WEBSITE.
 
 -7.13 
--[] 4 READINGS
--[] TWO SETS OF LISTENINGS
--[] 4 SPEAKINGS
--[] **WE MUST** FINISH TWO ARTICLES
+-[ ] 4 READINGS    
+-[ ] TWO SETS OF LISTENINGS    
+-[ ] 4 SPEAKINGS          
+-[ ] **WE MUST** FINISH TWO ARTICLES      
