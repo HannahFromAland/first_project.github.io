@@ -34,7 +34,7 @@ In adolescence, peer interactions are crucial in forging a self-identity.
   
 3)  have a working basis for many practical sciences    
 - form the backbone of later study or research
-- learn about science and the principles in a more interacted way rather than rote definition of tedious jargons or watch the video showing the experiments.
+- learn about science and the principles in a more ~~interacted way~~ **tangible way** rather than rote definition of tedious jargons or watch the video showing the experiments.
 
 ## Against the argument
 
