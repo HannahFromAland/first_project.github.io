@@ -45,4 +45,6 @@ SOMEONE TOLD ME THAT I CAN HAVE A TRY ABOUT THE FUNCTION OF CREATING THE WEBSITE
 - [ ] TWO SETS OF LISTENINGS    
 - [ ] 4 SPEAKINGS          
 - [ ] **WE MUST** FINISH TWO ARTICLES      
- 
+
+### Try to save my writing by meaningless typing in 
+[Writing Hints](first_project.github.io/writing.md) 
