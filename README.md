@@ -47,4 +47,4 @@ SOMEONE TOLD ME THAT I CAN HAVE A TRY ABOUT THE FUNCTION OF CREATING THE WEBSITE
 - [ ] **WE MUST** FINISH TWO ARTICLES      
 
 ### Try to save my writing by meaningless typing in 
-[Writing Hints](https://github.com/Hannahalover/first_project/edit/master/writing.md) 
+[Writing Hints](https://github.com/Hannahalover/first_project/master/writing.md) 
