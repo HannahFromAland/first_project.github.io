@@ -18,7 +18,7 @@ Use specific reasons and examples to support your answer.
 **Conclusion: While spending much time staring at screens will impair their normal vision and lead to a **sedentary lifestyle**,
 increased outdoor activities directly translates into increased physical health.**
 
-2） be better at social interactions and increasing social skills    
+2) be better at social interactions and increasing social skills    
 - Play with peers will unintentionally nurture the basic skills of social life such as **compassion** and **taking turns**    
 - Children who interact with others become more **articulate** in speaking a wide range of ideas and expressing themselves    
 - Peer interactions are crucial for them to formulate friendship with others, try to trust others and be trustful and even forging a self-identity by seeking like-minded companions
